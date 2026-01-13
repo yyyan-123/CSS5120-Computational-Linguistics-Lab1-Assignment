@@ -75,4 +75,4 @@ And Please ensure your file includes the following content:
 | **File Format** | [.txt / .jsonl / .csv] |
 
 ### 2. Dataset Introduction
-Briefly describe what this dataset contains, its characteristics, and how you obtained or organized it.
+Briefly describe what this dataset contains, its characteristics, how you obtained it and what research question you plan to use it for.
